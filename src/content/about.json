@@ -25,12 +25,12 @@
   "officeStaff": {
     "title": "Warden and Hall Office Staff",
     "members": [
-        { "name": "Dr. P.C. Mondal", "role": "Warden-in-Charge", "phone": "+91-8697389517", "email": "pcmondal@iitk.ac.in", "imageUrl": "/people/pcmondal.png", "aiHint": "professional portrait man" },
-        { "name": "Dr. Chaitanya Kumar Rao", "role": "Warden", "phone": "+91-9490104441", "email": "chaitanya@iitk.ac.in", "imageUrl": "/people/chaitanya.png", "aiHint": "professional portrait man" },
-        { "name": "Dr. Arnab Ghosh", "role": "Warden", "phone": "+91-9163518428", "email": "arnab@iitk.ac.in", "imageUrl": "/people/arnab.png", "aiHint": "professional portrait man" },      
+        { "name": "Dr. Prakash Chandra Mondal", "role": "Warden-in-Charge", "email": "pcmondal@iitk.ac.in", "imageUrl": "/people/pcmondal.png", "aiHint": "professional portrait man" },
+        { "name": "Dr. Hemant Gehlot", "role": "Warden", "email": "hemantg@iitk.ac.in", "imageUrl": "/people/hemant.png", "aiHint": "professional portrait man" },
+        { "name": "Dr. Jitender Kumar", "role": "Warden", "email": "krjiten@iitk.ac.in", "imageUrl": "/people/jitendra.jpeg", "aiHint": "professional portrait man" },      
       { "name": "MR. Ashish Tiwari", "role": "Hall Manager", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" },
       { "name": "MR. Ramesh", "role": "staff", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" },
-      { "name": "MR. Dinesh", "role": "staff", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" },
+      { "name": "Ms. Mridula", "role": "staff", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait woman" },
       { "name": "MR. Girish", "role": "staff", "email": "hall12@iitk.ac.in", "imageUrl": "https://placehold.co/400x400.png", "aiHint": "professional portrait man" }
     ]
   },
@@ -41,7 +41,7 @@
       { "name": "Utkarsh Aman", "role": "Mess and Canteen Secretary", "imageUrl": "/people/utkarsh.png", "aiHint": "student portrait man", "instagram": "#", "phone": "8229021811" },
       { "name": "Dwij Manishkumar Sukhadiya", "role": "Mess and Canteen Secretary", "imageUrl": "/people/dwij.png", "aiHint": "student portrait man", "instagram": "#", "phone": "9925901535" },
       { "name": "Arnab Patra", "role": "Maintenance Secretary", "imageUrl": "/people/arnab-patra.png", "aiHint": "student portrait man", "instagram": "#", "phone": "9477600604" },
-      { "name": "Ranjan Ojha", "role": "Maintenance Secretary", "imageUrl": "/people/ranjan.jpeg", "aiHint": "student portrait man", "instagram": "#", "phone": "7751852848" },
+      { "name": "Ranjan Ojha", "role": "Maintenance Secretary", "imageUrl": "/people/ranjan.png", "aiHint": "student portrait man", "instagram": "#", "phone": "7751852848" },
       { "name": "Chitrank Singh Shekhawat", "role": "Cultural Secretary", "imageUrl": "/people/chitrank.jpeg", "aiHint": "student portrait man", "instagram": "#", "phone": "7011461011" },
       { "name": "Suryansh Kumat Verma", "role": "Cultural Secretary", "imageUrl": "/people/suryansh.jpeg", "aiHint": "student portrait man", "instagram": "#", "phone": "7320081196" },
       { "name": "Piyush", "role": "Accounts Secretary", "imageUrl": "/people/piyush.jpeg", "aiHint": "student portrait man", "instagram": "#", "phone": "8750332780" },
